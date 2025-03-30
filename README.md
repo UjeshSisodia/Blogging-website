@@ -1,10 +1,7 @@
 # Blogging-website
 This a blogging website created by Ujesh Sisodia
 # Blog Management System
-
 A full-stack blog management system with user authentication and country information integration.
-
-![Blog System Preview](screenshot.png)
 
 ## Features
 
