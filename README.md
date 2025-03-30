@@ -2,8 +2,10 @@
 This a blogging website created by Ujesh Sisodia
 
 Deployed Link: http://13.51.160.250:3000/
-Use these credentials only      username: admin
-                                password: password
+
+Use following credentials: 
+username: admin
+password: password
 # Blog Management System
 A full-stack blog management system with user authentication and country information integration.
 
