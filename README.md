@@ -3,7 +3,7 @@ This a blogging website created by Ujesh Sisodia
 
 Deployed Link: http://13.51.160.250:3000/
 
-Use following credentials: 
+__Use following credentials: 
 username: admin
 password: password
 # Blog Management System
